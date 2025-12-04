@@ -80,7 +80,7 @@ Alurnya sangat mirip dengan menambah data, perbedaannya:
 **Model Hapus Data:** ViewModel memerintahkan Model untuk menjalankan query DELETE di database menggunakan ID yang diberikan.
 **Selesai:** Setelah data terhapus, halaman dialihkan kembali ke daftar utama.
 
-#DOKUMENTASI
+# DOKUMENTASI
 ![USER](dokuemntasi/USER.mp4)
 
 
