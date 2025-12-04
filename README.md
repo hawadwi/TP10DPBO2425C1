@@ -81,13 +81,13 @@ Alurnya sangat mirip dengan menambah data, perbedaannya:
 **Selesai:** Setelah data terhapus, halaman dialihkan kembali ke daftar utama.
 
 # DOKUMENTASI
-![USER](dokuemntasi/USER.mp4)
+![USER](dokumentasi/USER.mp4)
 
 
-![TIKET](dokuemntasi/TIKET.mp4)
+![TIKET](dokumentasi/TIKET.mp4)
 
 
-![EVENT](dokuemntasi/EVENT.mp4)
+![EVENT](dokumentasi/EVENT.mp4)
 
 
-![KATEGORI_EVENT](dokuemntasi/KATEGORI_EVENT.mp4)
+![KATEGORI_EVENT](dokumentasi/KATEGORI_EVENT.mp4)
